@@ -1,6 +1,5 @@
 
-package com.calidad4.proyectocalidad;
-
+package com.calidad4.clases;
 
 
 
